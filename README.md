@@ -24,4 +24,4 @@ me.say_hi()
 ```
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyriakos&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyriakos&hide=TeX&layout=compact&theme=transparent)
