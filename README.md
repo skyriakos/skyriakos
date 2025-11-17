@@ -11,7 +11,7 @@
 class HobbyProgrammer:
 
     def __init__(self):
-        self.name = "Kyriakos Stefanakos"
+        self.name = "Kyriakos"
         self.role = "Student / Hobby Programmer"
         self.languages_spoken = ["German", "English", "Greek", "Swiss German"]
         self.programming_languages = ["Python", "C# (learning Unity)"]
