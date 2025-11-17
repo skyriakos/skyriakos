@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**skyriakos/skyriakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
+class HobbyProgrammer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Kyriakos Stefanakos"
+        self.role = "Student at DSA / Hobby Programmer"
+        self.languages_spoken = ["German", "English", "Greek", "Swiss German"]
+        self.programming_languages = ["Python", "C# (learning Unity)"]
+
+    def say_hi(self):
+        print(f"Hi! I'm {self.name}, a {self.role}.")
+        print("Languages I speak:", ", ".join(self.languages_spoken))
+        print("Programming with:", ", ".join(self.programming_languages))
+        print("Thanks for stopping by – enjoy exploring my work!")
+
+# Run the script
+me = HobbyProgrammer()
+me.say_hi()
+
+```
