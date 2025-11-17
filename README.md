@@ -1,5 +1,6 @@
-## Hi there 👋 ![My GIF]([https://media.giphy.com/media/your-gif-link-here/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBlZTNnenJpZXlxOGJpZTg1bGN5dnFmaHk1M2RsNTV5YnhqbjJ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVEBWRInEvNOEVS18i/giphy.gif])
-             
+## Hi there 👋     ![giphy](https://github.com/user-attachments/assets/9490de4a-d1c6-4a29-a462-252772d17ea4)
+            
+
 
 ```python
 
