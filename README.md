@@ -1,4 +1,5 @@
-## Hi there 👋      ![giphy](https://github.com/user-attachments/assets/3f0c1a00-def7-4edd-b1eb-0cdf08414278)
+## Hi there 👋      <img src="![giphy](https://github.com/user-attachments/assets/3f0c1a00-def7-4edd-b1eb-0cdf08414278)" width="100px">
+
            
 
 
